@@ -1,0 +1,16 @@
+Attributes:
+
+sepal length in cm
+sepal width in cm
+petal length in cm
+petal width in cm
+
+Classes:
+
+0: Iris-setosa
+1: Iris-versicolor
+2: Iris-virginica
+
+
+Note1: Normalize values in each attribute before using them
+Note2: Randomize the order of data (shuffle) before separating it into Training and Test data
